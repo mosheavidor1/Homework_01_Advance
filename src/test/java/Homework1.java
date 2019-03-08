@@ -29,18 +29,24 @@ public class Homework1 {
 
     @Test
 
+
     public void Test01_run() {
 
 
         WebElement YouTubeButton = driver.findElement(By.id("logo-icon-container"));
         System.out.println(YouTubeButton);
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");j
-        System.out.println("hello");j
 
 
 
+    }
+
+    @Test
+
+
+    public void Test02_run() {
+
+        driver.get("https://www.ynet.co.il/");
     }
 
 
