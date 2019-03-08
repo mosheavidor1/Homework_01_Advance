@@ -47,6 +47,10 @@ public class Homework1 {
     public void Test02_run() {
 
         driver.get("https://www.ynet.co.il/");
+        driver.get("https://www.ynet.co.il/");
+      kkkk
+              fff
+              kkkokokoko
     }
 
 
