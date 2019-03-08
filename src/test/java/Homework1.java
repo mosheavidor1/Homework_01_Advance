@@ -51,6 +51,7 @@ public class Homework1 {
       kkkk
               fff
               kkkokokoko
+                      khhhhj
     }
 
 
